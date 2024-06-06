@@ -11,4 +11,4 @@ MicrosoftAzureBastionAuditLogs
     Protocol,
     ['Virtual Machine Name'],
     ['Virtual Machine IP']=TargetVMIPAddress
-| sort by TimeGenerated desc 
+| sort by TimeGenerated asc 
