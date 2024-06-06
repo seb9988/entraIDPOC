@@ -33,3 +33,4 @@ DeviceProcessEvents
 | where InitiatingProcessTokenElevation == "TokenElevationTypeFull"
 | where FileName !in (process)
 | join kind=rightanti devices on DeviceName, AccountName
+| sort by TimeGenerated
