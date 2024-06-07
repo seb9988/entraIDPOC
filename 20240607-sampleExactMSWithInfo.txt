@@ -1,0 +1,4 @@
+	"AadClientId": "60567934-3659-43ad-8c1f-07e0b964b4f0",
+	"AadSecret": "nXF8Q~DF9RnAUGfqNECwGVGKGkTM3dPBKs2V~cxX",
+	"AadTenantDomain": "vaudoise.onmicrosoft.com",
+	"AadTenantId": "df111d67-4cb1-4119-9f05-4c52e5e0e150",
